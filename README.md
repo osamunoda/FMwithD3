@@ -10,4 +10,4 @@ Some caveat:
 Now it works on Win and Mac.  
 But I had to downgrade D3 version from 6 to 5 for Windows.  
 d3.rollup/d3.group are not available in v5.   
-Previous way is less intuitive. And also in IE11 Arrow Function is not supported. It makes readability worse. 
+Previous(v5) way is less intuitive. And also in IE11 Arrow Function is not supported. It makes readability worse. 
